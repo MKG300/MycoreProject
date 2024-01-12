@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyCoreProject
 build_property.RootNamespace = MyCoreProject
-build_property.ProjectDir = D:\study\MyCoreProject\MyCoreProject\
+build_property.ProjectDir = D:\MyProject\MycoreProject\MyCoreProject\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\study\MyCoreProject\MyCoreProject
+build_property.MSBuildProjectDirectory = D:\MyProject\MycoreProject\MyCoreProject
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/study/MyCoreProject/MyCoreProject/Views/Category/Create.cshtml]
+[D:/MyProject/MycoreProject/MyCoreProject/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/MyCoreProject/MyCoreProject/Views/Category/Index.cshtml]
+[D:/MyProject/MycoreProject/MyCoreProject/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/MyCoreProject/MyCoreProject/Views/Home/Index.cshtml]
+[D:/MyProject/MycoreProject/MyCoreProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/MyCoreProject/MyCoreProject/Views/Home/Privacy.cshtml]
+[D:/MyProject/MycoreProject/MyCoreProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/MyCoreProject/MyCoreProject/Views/Shared/Error.cshtml]
+[D:/MyProject/MycoreProject/MyCoreProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/MyCoreProject/MyCoreProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/MyProject/MycoreProject/MyCoreProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/MyCoreProject/MyCoreProject/Views/_ViewImports.cshtml]
+[D:/MyProject/MycoreProject/MyCoreProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/MyCoreProject/MyCoreProject/Views/_ViewStart.cshtml]
+[D:/MyProject/MycoreProject/MyCoreProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/MyCoreProject/MyCoreProject/Views/Shared/_Layout.cshtml]
+[D:/MyProject/MycoreProject/MyCoreProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l30sn6o0el
